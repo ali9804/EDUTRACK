@@ -1,0 +1,6 @@
+{
+  "name": "Student Academic Progress Management System",
+  "description": "A centralized academic management system with role-based dashboards for Students, Teachers, and Admins to manage attendance, marks, academic progress, and fee records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
